@@ -1,0 +1,9 @@
+Main goal of the project: create an investment portfolio that satisfies your preferences, estimate its risk and expected return
+
+Project stages
+1)	Determine your investor’s profile
+2)	Choose the securities for your portfolio
+3)	Find the historical pricing data
+4)	Estimate the historical performance of your portfolio
+5)	Test the performance of your portfolio
+6)	Provide a conclusion and recommendations
