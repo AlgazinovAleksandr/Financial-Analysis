@@ -1,0 +1,6 @@
+How can changes in the dynamics of stock prices in different sectors at different times be explained from an economic point of view?
+
+We will try to answer this question by:
+- collecting open-source financial data
+- doing comprehensive data analysis
+- use various references and the common sense to explain the observed phenomena
